@@ -1,5 +1,5 @@
 # The project has been divided into six parts 
-* [Select the Region and mark Checkpoints](#Select\the\Region\and\mark\Checkpoints)
+* [Select the Region and mark Checkpoints](#Select-the-Region-and-mark-Checkpoints)
 * Collecting the data (images) from Google Street View. [Collecting the data (images) from Google Street View]
 * Removing the objects from the images. [Removing the objects from the images]
 * Segment the images.[Segment the images] 
