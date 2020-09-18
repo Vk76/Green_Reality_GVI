@@ -54,7 +54,7 @@ area of image i.e. 400x400.
 ## Analyzing the output and adding it to the Site
 ![](images/1112.JPG)
 
-# what to Fetch from GSV API?
+# What to Fetch from GSV API?
 * Accuracy in calculating the GVI is important aspect. 
 * For each check point GVI is calculated ,but for each check point all its images of 360deg is 
 taken and an image is divided into 6 parts of 60deg each.(fig) 
