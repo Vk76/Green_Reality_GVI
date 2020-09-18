@@ -5,6 +5,7 @@
 * [Segment the images](#Segment-the-images) 
 * [Calculating the Green View Index (GVI) of images and Prepare an excel File.](#Calculating-the-Green-View-Index-(GVI)-of-images-and-Prepare-an-excel-File) 
 * [Analyzing the output and adding it to the Site.](#Analyzing-the-output-and-adding-it-to-the-Site)
+* [What to Fetch from GSV API?](#What-to-Fetch-from-GSV-API?)
 
 ## Select the Region and mark Checkpoints
 * This is the first step, first a region where Google street view is available is selected. 
